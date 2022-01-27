@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1040479857845",
+    "project_id": "littlefly-27",
+    "storage_bucket": "littlefly-27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040479857845:android:4f2645f0692b93b205a2fc",
+        "android_client_info": {
+          "package_name": "com.example.facedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040479857845-sge1pcp54nse99e4fien4khf5k001dgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5j_lTrGIEhJwWYOdnnqZeYLMISTX1IGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040479857845-sge1pcp54nse99e4fien4khf5k001dgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040479857845:android:fdc7893ffd67c8ab05a2fc",
+        "android_client_info": {
+          "package_name": "com.example.firebasefacedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040479857845-sge1pcp54nse99e4fien4khf5k001dgv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5j_lTrGIEhJwWYOdnnqZeYLMISTX1IGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040479857845-sge1pcp54nse99e4fien4khf5k001dgv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
